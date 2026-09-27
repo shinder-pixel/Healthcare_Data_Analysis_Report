@@ -38,6 +38,8 @@ Expectations:
 
 -The average out-of-pocket amount is approximately £403.50, suggesting a meaningful direct financial burden on patients.
 
+# Dashboard : https://github.com/shinder-pixel/Healthcare_Data_Analysis_Report/blob/main/Hospital_Data_PBI_Dashboard.png
+
 ## Conclusion: 
 
 In 2024 Average billing amount was approx.£690, while in 2025 it was approx. £1000, so there is increased total billing over a year.
