@@ -16,7 +16,7 @@ The analysis focuses on revenue, expenses, profitability, patient activity, prov
 - Provider Insights: Analyze the performance and efficiency of healthcare providers.
 - Trend Analysis: Highlight any important trends over time.
 - Additional Insights: Any other relevant insights that can be derived from the data.
-- 
+  
 Expectations:
 - Visualization: Use appropriate visualizations to effectively communicate the findings.
 - Interactivity: Ensure the dashboard is interactive and user-friendly.
