@@ -38,7 +38,7 @@ Expectations:
 
 -The average out-of-pocket amount is approximately £403.50, suggesting a meaningful direct financial burden on patients.
 
-##Conclusion: 
+## Conclusion: 
 
 In 2024 Average billing amount was approx.£690, while in 2025 it was approx. £1000, so there is increased total billing over a year.
 From Northern Ireland there is maximum response.
@@ -48,7 +48,7 @@ Patients with HTN visited more followed by appendicitis and asthma.
 
 From a departmental perspective, Orthopedics contributing 27% followed by Cardiology and General Surgery collectively account for the majority of the displayed departmental billing.
 
-##Takeaway:
+## Takeaway:
 From patient perspective, need to focus on patients from England. Also there should be reduction in patients amount paying out of pocket.
 Pending Billing: Approximately £2M in billing remains pending, representing a significant outstanding amount. Monitoring the aging and distribution of these pending bills can help identify collection gaps and improve cash-flow management.
 
