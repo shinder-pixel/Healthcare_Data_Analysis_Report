@@ -38,7 +38,9 @@ Expectations:
 
 -The average out-of-pocket amount is approximately £403.50, suggesting a meaningful direct financial burden on patients.
 
-# Dashboard : https://github.com/shinder-pixel/Healthcare_Data_Analysis_Report/blob/main/Hospital_Data_PBI_Dashboard.png
+## Dashboard : 
+
+https://github.com/shinder-pixel/Healthcare_Data_Analysis_Report/blob/main/Hospital_Data_PBI_Dashboard.png
 
 ## Conclusion: 
 
